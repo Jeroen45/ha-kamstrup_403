@@ -1,6 +1,6 @@
 Hi there!
 
-I'm hoping this message reaches you. I'm not intending for you to merge this request, but I'm using it because I have no way of reaching you. 
+I'm hoping this message reaches you. I'm not intending for you to merge this request, but I'm using it because I have no other way of reaching you. 
 I've actually been trying to reach you for quite some time now, but I just saw your fork of this repo, which gave me this chance to try it this wy.
 
 ### Even if you do nothing else with this, please give me some form of reply, either on hi@j45.nl or on github, so I at least know you have received my message. Thanks a lot in advance!
